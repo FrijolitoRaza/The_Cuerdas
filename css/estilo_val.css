@@ -866,6 +866,9 @@
     column-count : 1;
     width : 100%;
     }
+    #container-carousel {
+    max-width : 100% !important ;
+    }
     /*PAGINA-ARTICULO*/
     .columna-1 {
         width : 100%;
